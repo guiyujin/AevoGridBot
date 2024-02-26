@@ -2,7 +2,12 @@
 
 ## 安装环境
 
-需要提前安装python3.11, MSVC
+需要提前安装
+
+python3.11:https://www.python.org/downloads/
+
+MSVC: https://visualstudio.microsoft.com/zh-hans/vs/features/cplusplus/
+
 ```bash
 pip install -r requirements.txt
 ```
